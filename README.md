@@ -43,15 +43,15 @@ This journey is my commitment to:
 
 ## 🚀 90-Day Roadmap (with Projects)  
 
-| # | Project Name | Description | Tech Stack | Duration |
-|---|--------------|-------------|------------|---------|
-| 1 | CSV & API Data ETL Pipeline | Extract from CSV + REST APIs, transform with Pandas, load into PostgreSQL | Python, Pandas, PostgreSQL | 7 days |
-| 2 | Data Warehouse & ETL Automation | Design a star schema warehouse, automate daily batch ingestion with Airflow | Airflow, PostgreSQL, SQL | 7 days |
-| 3 | Real-time Streaming Data Pipeline | Ingest streaming data (simulated API/log events) with Kafka + Spark Streaming | Kafka, Spark, Python | 7 days |
-| 4 | Automated Data Quality & Validation Framework | Add validation checks for schema, nulls, anomalies before data loads | Python, Great Expectations, SQL | 7 days |
-| 5 | Cloud-based Lakehouse Mini Project | Store raw + processed data in AWS S3, transform with Glue, query with Redshift/BigQuery | AWS/GCP stack | 10 days |
-| 6 | Data Pipeline with ML Model Integration | Extend a pipeline to include predictive ML model (sales forecasting/churn prediction) | Python, scikit-learn, Airflow | 14 days |
-| 7 | Portfolio Dashboard | Visualize processed data with a dashboard to demonstrate end-to-end workflow | Dash, Power BI | 7 days |
+| # | Project Name | Description | Tech Stack |
+|---|--------------|-------------|------------|
+| 1 | CSV & API Data ETL Pipeline | Extract from CSV + REST APIs, transform with Pandas, load into PostgreSQL | Python, Pandas, PostgreSQL |
+| 2 | Data Warehouse & ETL Automation | Design a star schema warehouse, automate daily batch ingestion with Airflow | Airflow, PostgreSQL, SQL |
+| 3 | Real-time Streaming Data Pipeline | Ingest streaming data (simulated API/log events) with Kafka + Spark Streaming | Kafka, Spark, Python |
+| 4 | Automated Data Quality & Validation Framework | Add validation checks for schema, nulls, anomalies before data loads | Python, Great Expectations, SQL |
+| 5 | Cloud-based Lakehouse Mini Project | Store raw + processed data in AWS S3, transform with Glue, query with Redshift/BigQuery | AWS/GCP stack |
+| 6 | Data Pipeline with ML Model Integration | Extend a pipeline to include predictive ML model (sales forecasting/churn prediction) | Python, scikit-learn, Airflow |
+| 7 | Portfolio Dashboard | Visualize processed data with a dashboard to demonstrate end-to-end workflow | Dash, Power BI |
 
 ---
 
