@@ -21,13 +21,13 @@ This journey is my commitment to:
 **Databases:** SQL Server | PostgreSQL | MySQL  
 **Data Tools:** Pandas | NumPy | Airflow | Spark | Kafka | Jupyter  
 **Cloud & DevOps:** AWS (S3, Glue, Redshift) | GCP (BigQuery) | Docker | Git  
-**Other:** APIs | ETL workflows | Data Modeling | Monitoring & Validation  
+**Other:** APIs | ETL Workflows | Data Modeling | Monitoring & Validation  
 
 ---
 
 ## 🚀 90-Day Roadmap (with Projects)  
 
-These are the projects I’ll complete step by step in this journey. Each one builds on the last to demonstrate **recruiter-ready, end-to-end DE + ML skills**:  
+Each project builds step by step to demonstrate **recruiter-ready, end-to-end DE + ML skills**:  
 
 1. **CSV & API Data ETL Pipeline**  
    - Build a pipeline to extract from CSV + REST APIs, transform with Pandas, and load into PostgreSQL.  
@@ -75,18 +75,3 @@ gantt
     Cloud Lakehouse             :des5, 2025-10-20, 10d
     Pipeline + ML Integration   :des6, 2025-10-30, 14d
     Portfolio Dashboard         :des7, 2025-11-13, 7d
-
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/prakashjha-dev">
-    <img src="https://img.shields.io/badge/GitHub-PrakashJha-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:prakashjha050201@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
