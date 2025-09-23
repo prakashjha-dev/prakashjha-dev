@@ -73,4 +73,4 @@ gantt
     Cloud Lakehouse             :des5, 2025-10-20, 10d
     Pipeline + ML Integration   :des6, 2025-10-30, 14d
     Portfolio Dashboard         :des7, 2025-11-13, 7d
-</div>
+
