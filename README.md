@@ -59,6 +59,23 @@ Each project builds step by step to demonstrate **recruiter-ready, end-to-end DE
 
 ---
 
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/prakashjha-dev">
+    <img src="https://img.shields.io/badge/GitHub-PrakashJha-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:prakashjha050201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
 ## 📊 Progress Tracker (90 Days)  
 
 ```mermaid
@@ -76,20 +93,6 @@ gantt
     Pipeline + ML Integration   :des6, 2025-10-30, 14d
     Portfolio Dashboard         :des7, 2025-11-13, 7d
 
----
 
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/prakashjha-dev">
-    <img src="https://img.shields.io/badge/GitHub-PrakashJha-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:prakashjha050201@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
 
 
