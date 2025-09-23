@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakash Jha   
 
-🎓 **B.Tech Graduate (2024)** | **.NET Developer (1+ year industry experience)**  
+🎓 **B.Tech Graduate (2024)** | **.NET Full- Stack Developer (1+ year industry experience)**  
 📊 Pivoting into **Data Engineering & AI/ML-ready Pipelines**  
 🚀 On a **90-day journey** to build hands-on projects in **ETL, Cloud, Streaming, and Applied ML Integration** — documenting it here as a public learning log.  
 
