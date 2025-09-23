@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakash Jha   
 
-🎓 **B.Tech Graduate (2024)** | **.NET Full- Stack Developer (1+ year industry experience)**  
+🎓 **B.Tech Graduate (2024)** | **.NET Full-Stack Developer (1+ year industry experience)**  
 📊 Pivoting into **Data Engineering & AI/ML-ready Pipelines**  
 🚀 On a **90-day journey** to build hands-on projects in **ETL, Cloud, Streaming, and Applied ML Integration** — documenting it here as a public learning log.  
 
@@ -9,7 +9,7 @@
 ## 📫 Connect with Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/prakash-jha-0bb270386/">
     <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Jha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://github.com/prakashjha-dev">
@@ -73,4 +73,3 @@ gantt
     Cloud Lakehouse             :des5, 2025-10-20, 10d
     Pipeline + ML Integration   :des6, 2025-10-30, 14d
     Portfolio Dashboard         :des7, 2025-11-13, 7d
-
